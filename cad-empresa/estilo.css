@@ -1,0 +1,30 @@
+ body{
+    font-size: large;
+    width: 0 auto;
+    background-color: blueviolet;
+    text-align: center;
+    position: fixed;
+    top: 10px;
+    bottom: 0px;
+    margin: 0px;
+    padding: 0px;
+    left: 0px;
+    right: 0px;
+ }
+ p{
+    font-size: xx-large;
+ }
+ form,label{
+    display: block;
+    padding: 10px;
+ }
+  input{
+    border-radius: 7px;
+    border-style: solid;
+    border-color: rgb(0, 202, 252);
+  }
+  form{
+    margin: 150 px;
+    border-style: solid;
+    border-color: rgb(233, 192, 11);
+  }
